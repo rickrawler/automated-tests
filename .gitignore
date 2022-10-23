@@ -1,0 +1,5 @@
+conf.properties
+target
+.idea
+build
+src/tests/resources
