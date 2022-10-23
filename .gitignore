@@ -1,0 +1,6 @@
+conf.properties
+target
+build
+.idea
+pom.xml
+resources
